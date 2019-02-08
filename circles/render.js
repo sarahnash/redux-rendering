@@ -12,4 +12,6 @@ const render = (state) => {
             ${circlesHTML.join('')}
         </div>
     `
+    
+    console.log(getState())
 }
